@@ -1,0 +1,8 @@
+.Board {
+  margin: 0 auto;
+}
+
+.win-msg{
+  font-weight: bold;
+  color: green;
+}
